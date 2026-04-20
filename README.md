@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 ## what I'm building
 
-Semantic Movie Search Agent([link](https://github.com/diveshjain2019-dev/semantic-search-agent)) — one sentence description.
+Semantic Movie Search Agent([link](https://github.com/diveshjain2019-dev/semantic-search-agent)) — An AI enabled search agent that uderstands intend rather than matching keywords; Tech Stack: Python, ChromaDB, Groq LLaMA-3,BM25+RRF Streamlit  <img width="468" height="9" alt="image" src="https://github.com/user-attachments/assets/f1443226-55e3-4c73-9d62-bbc512ddc8c0" />
+.
 
-[Project Name](link) — one sentence description.
+NL Query Dashboard – Network Health Analytics([link](https://github.com/diveshjain2019-dev/eero-nlp-dashboard)) — one sentence description.
 
-[Project Name](link) — one sentence description.
+FMCG Retail Lakehouse ETL Pipeline([link](https://github.com/diveshjain2019-dev/fmcg-retail-lakehouse-etl/tree/main)) — one sentence description.
