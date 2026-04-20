@@ -27,4 +27,4 @@ Building something together? → diveshjain2019@gmail.com
 
 In SF? Let's grab coffee ☕
 
-[linkedin]([link](https://www.linkedin.com/in/divesh-jain/)
+[linkedin](https://www.linkedin.com/in/divesh-jain/)
