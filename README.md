@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## what I'm building
+
+Semantic Movie Search Agent([link](https://github.com/diveshjain2019-dev/semantic-search-agent)) — one sentence description.
+
+[Project Name](link) — one sentence description.
+
+[Project Name](link) — one sentence description.
