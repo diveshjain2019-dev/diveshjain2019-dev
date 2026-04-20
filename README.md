@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## what I'm building
+## What I'm building
 
 Semantic Movie Search Agent([link](https://github.com/diveshjain2019-dev/semantic-search-agent)) — An AI enabled search agent that uderstands intend rather than matching keywords; Tech Stack: Python, ChromaDB, Groq LLaMA-3, BM25+RRF, Streamlit.
 
@@ -22,7 +22,8 @@ NL Query Dashboard – Network Health Analytics([link](https://github.com/divesh
 
 FMCG Retail Lakehouse ETL Pipeline([link](https://github.com/diveshjain2019-dev/fmcg-retail-lakehouse-etl/tree/main)) — End-to-end ETL pipeline on Databricks using Medallion Architecture (Bronze, Silver and Gold layer); Tech Stack: Databricks, Medallion Architecture, Apache Spark, Amazon S3. 
 
-## connect
+## Connect
 Building something together? → diveshjain2019@gmail.com
 In SF? Let's grab coffee ☕
+
 [linkedin]([link](https://www.linkedin.com/in/divesh-jain/))
