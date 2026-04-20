@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ## What I'm building
 
-([Semantic Movie Search Agent](https://github.com/diveshjain2019-dev/semantic-search-agent)) — An AI enabled search agent that uderstands intend rather than matching keywords; Tech Stack: Python, ChromaDB, Groq LLaMA-3, BM25+RRF, Streamlit.
+[Semantic Movie Search Agent](https://github.com/diveshjain2019-dev/semantic-search-agent) — An AI enabled search agent that uderstands intend rather than matching keywords; Tech Stack: Python, ChromaDB, Groq LLaMA-3, BM25+RRF, Streamlit.
 
-NL Query Dashboard – Network Health Analytics([link](https://github.com/diveshjain2019-dev/eero-nlp-dashboard)) — Natural language query interface that converts plain english questions into SQL. Gives back charts and analysis; Tech Stack: Python, FastAPI, Groq LLaMA-3, Recharts.
+[NL Query Dashboard – Network Health Analytics](https://github.com/diveshjain2019-dev/eero-nlp-dashboard) — Natural language query interface that converts plain english questions into SQL. Gives back charts and analysis; Tech Stack: Python, FastAPI, Groq LLaMA-3, Recharts.
 
-FMCG Retail Lakehouse ETL Pipeline([link](https://github.com/diveshjain2019-dev/fmcg-retail-lakehouse-etl/tree/main)) — End-to-end ETL pipeline on Databricks using Medallion Architecture (Bronze, Silver and Gold layer); Tech Stack: Databricks, Medallion Architecture, Apache Spark, Amazon S3. 
+[FMCG Retail Lakehouse ETL Pipeline](https://github.com/diveshjain2019-dev/fmcg-retail-lakehouse-etl/tree/main) — End-to-end ETL pipeline on Databricks using Medallion Architecture (Bronze, Silver and Gold layer); Tech Stack: Databricks, Medallion Architecture, Apache Spark, Amazon S3. 
 
 ## Connect
 Building something together? → diveshjain2019@gmail.com
